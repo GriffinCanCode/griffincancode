@@ -43,22 +43,6 @@
 | • Backend Systems (Node.js, Python, Go) | • Responsive Web Applications |
 | • Database Architecture (SQL & NoSQL) | • Accessibility-first Development |
 | | |
-| **Blockchain & Web3** | **Computer Vision & Graphics** |
-| • Smart Contract Development | • Image Processing Algorithms |
-| • DeFi Protocol Implementation | • Real-time Object Detection |
-| • Cross-chain Integration Solutions | • AR/VR Application Development |
-
-<details>
-<summary><b>Additional Expertise</b></summary>
-
-| Technical Skills | Project Management |
-|:----------------:|:-----------------:|
-| • Cloud Infrastructure (AWS, GCP) | • Agile Methodologies |
-| • DevOps & CI/CD Pipelines | • Technical Team Leadership |
-| • System Architecture Design | • Product Strategy |
-| • Performance Optimization | • Risk Assessment |
-
-</details>
   </div>
 </div>
 
