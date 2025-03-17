@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24242B,52527A,6B4B8A,9B4B8A&section=header&text=&fontAlignY=35&desc=AI%20Architect%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=50&animation=twinkling&descColor=9B4B8A" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=4000&pause=1000&color=9B4B8A&center=true&vCenter=true&repeat=true&width=800&height=100&lines=%40greyhatharold;%E2%8C%A8+Building+the+future" alt="@greyhatharold"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=4000&pause=1000&color=9B4B8A&center=true&vCenter=true&repeat=true&width=800&height=100&lines=%40greyhatharold;%E2%8C%A8+Building+the+future" alt="Griffin"/>
 </div>
 
 <div align="center">
@@ -60,8 +60,6 @@ while alive:
 <div align="center">
   <h2>Contact</h2>
 </div>
-
-<kbd>[griffin@griffin-code.com](mailto:griffin@griffin-code.com)</kbd>
   
 <div align="center">
 <hr style="width:30%; border: none; height: 1px; background: linear-gradient(to right, transparent, #2a2a2a, transparent);">
@@ -69,8 +67,8 @@ while alive:
 **Off on a side quest**
 
 <sub>
-  <a href="https://github.com/greyhatharold">github</a> • 
-  <a href="https://linkedin.com/in/greyhatharold">linkedin</a>
+  <a href="https://github.com/griffincancode/">github</a> • 
+  <a href="https://www.linkedin.com/in/griffin-strier-9ab9b0180/">linkedin</a>
 </sub>
 
 </div>
