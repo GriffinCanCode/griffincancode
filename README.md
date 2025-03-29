@@ -39,7 +39,7 @@
 | • Prompt Engineering & Optimization | • Agent Collaboration Frameworks |
 | | |
 | **Full-Stack Development** | **User Experience** |
-| • Modern Web Frameworks (React, Next.js, Vue) | • Intuitive Interface Design |
+| • Modern Web Frameworks (React, Next.js, Vue, Electron) | • Intuitive Interface Design |
 | • Backend Systems (Node.js, Python, Go) | • Responsive Web Applications |
 | • Database Architecture (SQL & NoSQL) | • Accessibility-first Development |
 | | |
