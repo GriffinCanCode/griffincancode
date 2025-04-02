@@ -22,7 +22,7 @@
   <h2>Background</h2>
   <p style="max-width: 800px; margin: 0 auto;">
     I'm an AI architect and engineer, full-stack developer, and ex-Jack-of-All-Trades, with a deep interest in generative AI and building the future. 
-    I used to release music, for a time ran my own indie label, studied history before that, and for a time moonlighted in aerospace engineering in high school. I roll like Newton's first, witness my inertia.
+    I used to release music, for a time ran my own indie label, studied history before that, and for a time moonlighted in aerospace engineering in high school. If your life is just a collection of stories, might as well make them interesting.
   </p>
 </div>
 
