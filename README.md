@@ -11,25 +11,25 @@
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-9B4B8A" alt="Full-Stack Developer"/>
   
   <div style="margin: 20px 0">
-    <img src="https://img.shields.io/badge/PHILOSOPHY-6B4B8A?style=for-the-badge&labelColor=52527A&color=000000" alt="Philosophy"/><img src="https://img.shields.io/badge/%20%7C%20FULL--ASS%E2%84%A2-000000?style=for-the-badge" alt="Full-Ass™"/
+    <img src="https://img.shields.io/badge/PHILOSOPHY-6B4B8A?style=for-the-badge&labelColor=52527A&color=000000" alt="Philosophy"/>
+    <img src="https://img.shields.io/badge/%20%7C%20FULL--ASS%E2%84%A2-000000?style=for-the-badge" alt="Full-Ass™"/>
+  </div>
+</div>
 
 <div align="center">
   <h2>Background</h2>
-  <p style="max-width: 800px; margin: 0 auto;">
-    I'm an AI architect and engineer, full-stack developer, and ex-Jack-of-All-Trades, with a deep interest in generative AI and building the future. 
-    I used to release music, for a time ran my own indie label, studied history before that, and for a time moonlighted in aerospace engineering in high school. 
-  </p>
 </div>
 
+I'm an AI architect and engineer, full-stack developer, and ex-Jack-of-All-Trades, with a deep interest in generative AI and building the future. I used to release music, for a time ran my own indie label, studied history before that, and for a time moonlighted in aerospace engineering in high school.
+
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GriffinCanCode&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=GriffinCanCode&show_icons=true&theme=radical&include_all_commits=true&count_private=true&card_width=400&card_height=200" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GriffinCanCode&layout=compact&langs_count=8&card_width=320&theme=radical&hide=html,css" />
+<img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GriffinCanCode&layout=compact&langs_count=6&card_width=400&card_height=200&theme=radical&hide=html,css" />
 </a>
-<a href="https://github.com/GriffinCanCode/howmany">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GriffinCanCode&repo=howmany&theme=radical" />
-</a>
+</div>
 
 <div align="center">
   <h2>Areas of Focus</h2>
@@ -76,4 +76,4 @@ while alive:
   <a href="https://www.linkedin.com/in/griffin-strier-9ab9b0180/">linkedin</a>
 </sub>
 
-</div>
+</div> 
