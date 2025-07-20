@@ -11,12 +11,7 @@
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-9B4B8A" alt="Full-Stack Developer"/>
   
   <div style="margin: 20px 0">
-    <img src="https://img.shields.io/badge/PHILOSOPHY-6B4B8A?style=for-the-badge&labelColor=52527A&color=000000" alt="Philosophy"/><img src="https://img.shields.io/badge/%20%7C%20FULL--ASS%E2%84%A2-000000?style=for-the-badge" alt="Full-Ass™"/>
-  </div>
-  <div style="margin-top: -5px; margin-bottom: 15px">
-    <em style="color: #808080; font-style: italic; font-family: monospace">"I don't half ass anything"</em>
-  </div>
-</div>
+    <img src="https://img.shields.io/badge/PHILOSOPHY-6B4B8A?style=for-the-badge&labelColor=52527A&color=000000" alt="Philosophy"/><img src="https://img.shields.io/badge/%20%7C%20FULL--ASS%E2%84%A2-000000?style=for-the-badge" alt="Full-Ass™"/
 
 <div align="center">
   <h2>Background</h2>
