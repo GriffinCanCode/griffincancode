@@ -24,7 +24,7 @@ I'm an AI architect and engineer, full-stack developer, and ex-Jack-of-All-Trade
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=500 width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GriffinCanCode&layout=compact&langs_count=20&size_weight=.4&count_weight=.6&card_width=400&card_height=200&theme=radical&hide=html,css,c/+/+/,nix,just,jupyter%20notebook,dockerfile,c++,gap,roff,meson,makefile,fortran,c,cmake,tex,cython,shell,powershell" />
+<img height=500 width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GriffinCanCode&layout=compact&langs_count=20&size_weight=.5&count_weight=.5&card_width=400&card_height=200&theme=radical&hide=nix,just,jupyter%20notebook,dockerfile,c++,gap,roff,meson,makefile,fortran,cmake,tex,,shell,powershell" />
 </a>
 </div>
 
