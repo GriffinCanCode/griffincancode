@@ -15,13 +15,6 @@
     <img src="https://img.shields.io/badge/%20%7C%20FULL--ASS%E2%84%A2-000000?style=for-the-badge" alt="Full-Ass™"/>
   </div>
 </div>
-
-<div align="center">
-  <h2>Background</h2>
-</div>
-
-I'm an AI architect and engineer, full-stack developer, and ex-Jack-of-All-Trades, with a deep interest in generative AI and building the future. I used to release music, for a time ran my own indie label, studied history before that, and for a time moonlighted in aerospace engineering in high school.
-
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height=500 width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GriffinCanCode&layout=compact&langs_count=20&size_weight=.5&count_weight=.5&card_width=400&card_height=200&theme=radical&hide=nix,css,cython,just,jupyter%20notebook,dockerfile,c++,gap,roff,meson,makefile,fortran,cmake,tex,,shell,powershell" />
