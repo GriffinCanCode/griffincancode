@@ -1,69 +1,101 @@
-# <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24242B,52527A,6B4B8A,9B4B8A&section=header&text=&fontAlignY=35&desc=AI%20Architect%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=50&animation=twinkling&descColor=9B4B8A" width="100%"/>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=4000&pause=1000&color=9B4B8A&center=true&vCenter=true&repeat=true&width=800&height=100&lines=Griffin;%E2%8C%A8+Building+the+future" alt="Griffin"/>
+
+# Griffin
+
+**Systems Programmer | Language Designer | AI Architect**
+
+*"I always hated sleep."*
+
+[![Website](https://img.shields.io/badge/griffins.world-111?style=flat-square&logo=safari&logoColor=white)](https://griffins.world)
+[![Medium](https://img.shields.io/badge/Medium-111?style=flat-square&logo=medium&logoColor=white)](https://griffinn.medium.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/griffincancode)
+[![GitHub](https://img.shields.io/badge/84_repos-111?style=flat-square&logo=github&logoColor=white)](https://github.com/griffincancode?tab=repositories)
+
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Role-AI%20Architect-6B4B8A" alt="AI Architect"/>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-9B4B8A" alt="Full-Stack Developer"/>
-  
-  <div style="margin: 20px 0">
-    <img src="https://img.shields.io/badge/PHILOSOPHY-6B4B8A?style=for-the-badge&labelColor=52527A&color=000000" alt="Philosophy"/>
-    <img src="https://img.shields.io/badge/%20%7C%20FULL--ASS%E2%84%A2-000000?style=for-the-badge" alt="Full-Ass™"/>
-  </div>
-</div>
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=500 width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GriffinCanCode&layout=compact&langs_count=20&size_weight=.5&count_weight=.5&card_width=400&card_height=200&theme=radical&hide=nix,css,cython,just,jupyter%20notebook,dockerfile,c++,gap,roff,meson,makefile,fortran,cmake,tex,,shell,powershell" />
-</a>
-</div>
+---
 
-<div align="center">
-  <h2>Areas of Focus</h2>
+## Philosophy
 
-  <div align="center" style="max-width: 800px; margin: 0 auto;">
+Ship relentlessly. Build tools that outlive trends. Choose languages for the problem, not the resume.
 
-| Engineering & Development | Innovation & Design |
-|:------------------------:|:-------------------:|
-| **Artificial Intelligence** | **AI Agent Architecture** |
-| • Large Language Model Fine-tuning & Deployment | • Multi-agent System Design |
-| • Neural Network Architecture Design | • Autonomous Workflow Optimization |
-| • Prompt Engineering & Optimization | • Agent Collaboration Frameworks |
-| | |
-| **Full-Stack Development** | **User Experience** |
-| • Modern Web Frameworks (React, Next.js, Vue, Electron) | • Intuitive Interface Design |
-| • Backend Systems (Node.js, Python, Go) | • Responsive Web Applications |
-| • Database Architecture (SQL & NoSQL) | • Accessibility-first Development |
-| | |
-  </div>
-</div>
+I work at the intersection of **systems programming**, **language design**, and **AI infrastructure**. Most projects are performance-critical tools written in languages that prioritize correctness and speed—Rust, D, OCaml, Haskell.
 
-<div align="center">
-  <h2>Current Pursuits</h2>
-</div>
+---
 
-```python
-while alive:
-    learn("Everything from all angles")
-    if reached_infinity:
-        break
+## Flagship Projects
+
+### [AgentOS](https://github.com/griffincancode/AgentOS)
+A complete operating system kernel for AI agents—managing resources, scheduling tasks, and orchestrating local models. 306+ commits of pure systems engineering.
+
+`rust` `kernel` `dsl` `agents` `local-models`
+
+### [bldr](https://github.com/griffincancode/bldr) — [bldrapp.org](https://bldrapp.org)
+Polyglot build framework. 5× less boilerplate than Bazel. Easier learning curve than Buck2. Lock-free parallel execution with runtime dependency discovery.
+
+`d` `build-system` `infrastructure` `tooling`
+
+### [Callosum](https://github.com/griffincancode/Callosum)
+A language for AI personalities. Define, version, and deploy AI personas with a purpose-built DSL. Type-safe personality engineering.
+
+`ocaml` `dsl` `gemini` `openai`
+
+### [Wolfgang](https://github.com/griffincancode/Wolfgang)
+Write music programmatically. A functional language for composing music to MIDI. Because music is just well-typed data.
+
+`haskell` `functional` `audio` `dsl`
+
+---
+
+## Developer Tools
+
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| [howmany](https://github.com/griffincancode/howmany) | Intelligent code analysis | Rust |
+| [krnchr](https://github.com/griffincancode/krnchr) | File aggregator for AI context engineering | Rust |
+| [Dei](https://github.com/griffincancode/Dei) | God class detector | Rust |
+| [cantron](https://github.com/griffincancode/cantron) | High-speed secret scanner | Rust |
+| [Retrigger](https://github.com/griffincancode/Retrigger) | Fast hot reload watcher for Webpack/Vite | JS |
+| [Standardize](https://github.com/griffincancode/Standardize) | File formatting, done right | Rust |
+| [QVenv](https://github.com/griffincancode/QVenv) | Python venv with auto requirements detection | Python |
+
+---
+
+## Creative & Research
+
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| [BlackholeSim](https://github.com/griffincancode/BlackholeSim) | Black hole simulation with realistic physics and ray tracing | OpenGL |
+| [manifest](https://github.com/griffincancode/manifest) | Moddable Civ-style country building game | Rust |
+| [LangViz](https://github.com/griffincancode/LangViz) | ML semantic maps of 51 Indo-European languages | Python |
+| [Cognivore](https://github.com/griffincancode/Cognivore) | Automated innovation and exploration | JavaScript |
+
+---
+
+## Languages
+
+```
+Rust          ████████████████████████████████████░░░░░░░░  80%
+D             ████████████████████░░░░░░░░░░░░░░░░░░░░░░░░  45%
+Python        ██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  30%
+TypeScript    ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  25%
+Go            ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  20%
+OCaml         ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  15%
+Haskell       ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  12%
 ```
 
+---
+
+## Current Focus
+
+- Building **Iconoglott** — a visual DSL for graphics
+- Expanding **AgentOS** with new scheduling primitives
+- Polishing **bldr v2** for production monorepos
+
+---
+
 <div align="center">
-  <h2>Contact</h2>
+
+*Building the future, one language at a time.*
+
 </div>
-  
-<div align="center">
-<hr style="width:30%; border: none; height: 1px; background: linear-gradient(to right, transparent, #2a2a2a, transparent);">
-
-**Off on a side quest**
-
-<sub>
-  <a href="https://github.com/griffincancode/">github</a> • 
-  <a href="https://www.linkedin.com/in/griffin-strier-9ab9b0180/">linkedin</a>
-</sub>
-
-</div> 
