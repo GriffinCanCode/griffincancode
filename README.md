@@ -28,7 +28,7 @@ A complete operating system kernel for AI agents—managing resources, schedulin
 
 `rust` `kernel` `dsl` `agents` `local-models`
 
-### [bldr](https://github.com/griffincancode/bldr) — [bldrapp.org](https://bldrapp.org)
+### [bldr](https://github.com/griffincancode/bldr) — [bldrapp.org](https://www.bldrapp.org)
 Polyglot build framework. 5× less boilerplate than Bazel. Easier learning curve than Buck2. Lock-free parallel execution with runtime dependency discovery.
 
 `d` `build-system` `infrastructure` `tooling`
