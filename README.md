@@ -17,9 +17,7 @@
 
 ## Philosophy
 
-Ship relentlessly. Build tools that outlive trends. Choose languages for the problem, not the resume.
-
-I work at the intersection of **systems programming**, **language design**, and **AI infrastructure**. Most projects are performance-critical tools written in languages that prioritize correctness and speed—Rust, D, OCaml, Haskell.
+I work at the intersection of **systems programming**, **language design**, and **AI infrastructure**. Most projects are performance-critical tools written in languages that prioritize correctness and speed.
 
 ---
 
@@ -34,6 +32,21 @@ A complete operating system kernel for AI agents—managing resources, schedulin
 Polyglot build framework. 5× less boilerplate than Bazel. Easier learning curve than Buck2. Lock-free parallel execution with runtime dependency discovery.
 
 `d` `build-system` `infrastructure` `tooling`
+
+### [Polyglot](https://github.com/griffincancode/Polyglot)
+Desktop application framework that embeds language runtimes—Python, JS, Rust, Java, C++, Lua, Zig, WASM—into a single Go-orchestrated process. True parallelism via goroutines. Not tied to Rust like Tauri, not bloated like Electron.
+
+`go` `framework` `polyglot` `desktop`
+
+### [Quorum](https://github.com/griffincancode/Quorum)
+Multi-agent AI platform. Claude, GPT, and Gemini collaborate on tasks through an intelligent orchestrator. Streaming-first architecture with SSE and async processing.
+
+`python` `typescript` `fastapi` `react` `openrouter`
+
+### [Retrigger](https://github.com/griffincancode/Retrigger) — [npm](https://www.npmjs.com/package/@retrigger/core)
+High-performance file watcher for webpack and Vite. SIMD-accelerated hashing (5GB/s+), Rust daemon, Zig system bindings, sub-5ms change detection.
+
+`rust` `zig` `c` `nodejs` `hot-reload`
 
 ### [Callosum](https://github.com/griffincancode/Callosum)
 A language for AI personalities. Define, version, and deploy AI personas with a purpose-built DSL. Type-safe personality engineering.
@@ -55,7 +68,6 @@ Write music programmatically. A functional language for composing music to MIDI.
 | [krnchr](https://github.com/griffincancode/krnchr) | File aggregator for AI context engineering | Rust |
 | [Dei](https://github.com/griffincancode/Dei) | God class detector | Rust |
 | [cantron](https://github.com/griffincancode/cantron) | High-speed secret scanner | Rust |
-| [Retrigger](https://github.com/griffincancode/Retrigger) | Fast hot reload watcher for Webpack/Vite | JS |
 | [Standardize](https://github.com/griffincancode/Standardize) | File formatting, done right | Rust |
 | [QVenv](https://github.com/griffincancode/QVenv) | Python venv with auto requirements detection | Python |
 
@@ -72,30 +84,17 @@ Write music programmatically. A functional language for composing music to MIDI.
 
 ---
 
-## Languages
+## Published Packages
 
-```
-Rust          ████████████████████████████████████░░░░░░░░  80%
-D             ████████████████████░░░░░░░░░░░░░░░░░░░░░░░░  45%
-Python        ██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  30%
-TypeScript    ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  25%
-Go            ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  20%
-OCaml         ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  15%
-Haskell       ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  12%
-```
+**Rust** — [bldr](https://crates.io/crates/bldr) · [dei](https://crates.io/crates/dei) · [howmany](https://crates.io/crates/howmany) · [krnchr](https://crates.io/crates/krnchr) · [sherlock-io](https://crates.io/crates/sherlock-io)
 
----
+**Python** — [qvenv](https://pypi.org/project/qvenv/) · [callosum-dsl](https://pypi.org/project/callosum-dsl/) · [qgit](https://pypi.org/project/qgit/)
 
-## Current Focus
+**npm** — [@retrigger/core](https://www.npmjs.com/package/@retrigger/core)
 
-- Building **Iconoglott** — a visual DSL for graphics
-- Expanding **AgentOS** with new scheduling primitives
-- Polishing **bldr v2** for production monorepos
+**VS Code** — [howmany](https://marketplace.visualstudio.com/items?itemName=GriffinCanCode.howmany)
 
 ---
 
 <div align="center">
-
-*Building the future, one language at a time.*
-
 </div>
