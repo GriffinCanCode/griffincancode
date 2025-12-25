@@ -24,8 +24,7 @@ I work at the intersection of **systems programming**, **language design**, and 
 ## Flagship Projects
 
 ### [AgentOS](https://github.com/griffincancode/AgentOS)
-A complete operating system kernel for AI agents—managing resources, scheduling tasks, and orchestrating local models. 306+ commits of pure systems engineering.
-
+A complete operating system kernel for AI agents—managing resources, scheduling tasks, and orchestrating local models.
 `rust` `kernel` `dsl` `agents` `local-models`
 
 ### [bldr](https://github.com/griffincancode/bldr) — [bldrapp.org](https://www.bldrapp.org)
