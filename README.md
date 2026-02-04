@@ -201,14 +201,11 @@ Local model powered TTS engine for accessibility on Mac.
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [Abagnale](https://github.com/griffincancode/Abagnale) | Camera modifier for entertaining work calls | Python |
 | [SpellingBee](https://github.com/griffincancode/SpellingBee) | Spelling bee solver | Python |
 | [whisps](https://github.com/griffincancode/whisps) | Elixir experiments | Elixir |
 | [Iconoglott](https://github.com/griffincancode/Iconoglott) | Icon and language tooling | Rust |
-| [debug_philosopher](https://github.com/griffincancode/debug_philosopher) | Debug tool with creativity | — |
 | [virtual_compass](https://github.com/griffincancode/virtual_compass) | Moral compass for ethical dilemmas | Python |
 | [Quantum](https://github.com/griffincancode/Quantum) | Interesting but half-baked | Python |
-| [Brainmaker](https://github.com/griffincancode/Brainmaker) | Brain experiments | — |
 | [safespace](https://github.com/griffincancode/safespace) | Testing made safe | Python |
 | [OnArrival](https://github.com/griffincancode/OnArrival) | Arrival automation | Python |
 | [Tenire](https://github.com/griffincancode/Tenire) | Experiments | Python |
