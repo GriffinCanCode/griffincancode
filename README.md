@@ -15,107 +15,6 @@
 
 ---
 
-## Philosophy
-
-I build at the intersection of **systems programming**, **language design**, and **AI infrastructure**. Most projects prioritize correctness, performance, and novel architecture over convention. I've shipped production tools in D, Rust, Go, Haskell, OCaml, Zig, and a dozen other languages—because the right tool matters more than comfort.
-
-**800+ commits** across flagship projects. **15+ published packages** on crates.io, PyPI, npm, and Homebrew.
-
----
-
-## Flagship Projects
-
-### [AgentOS](https://github.com/griffincancode/AgentOS) `306 commits`
-A complete desktop operating system built from scratch in userspace. Production-grade microkernel architecture with 95+ syscalls, CFS scheduling, IPC, VFS, and network isolation. Four-layer stack: Rust kernel, Go services, Python AI, React shell. It can also generate applications with AI.
-
-`rust` `typescript` `go` `python` `kernel` `microkernel` `operating-system`
-
-### [bldr](https://github.com/griffincancode/bldr) — [bldrapp.org](https://www.bldrapp.org) `499 commits`
-Polyglot build framework with 5× less boilerplate than Bazel and an easier learning curve than Buck2. Features runtime dependency discovery, lock-free parallel execution, and comprehensive incremental compilation. Built in D for zero-cost abstractions.
-
-`d` `build-system` `bazel` `infrastructure` `monorepo`
-
-### [toolcase](https://github.com/griffincancode/toolcase) `116 commits`
-Type-safe, extensible tool registry for AI agents. The infrastructure layer for building reliable agent systems with proper tool management, validation, and composition.
-
-`python` `ai-agents` `langchain` `tool-use` `machine-learning`
-
-### [Polyglot](https://github.com/griffincancode/Polyglot)
-Desktop application framework that embeds language runtimes—Python, JS, Rust, Java, C++, Lua, Zig, WASM—into a single Go-orchestrated process. True parallelism via goroutines. Not tied to Rust like Tauri, not bloated like Electron.
-
-`go` `framework` `polyglot` `desktop` `wasm`
-
-### [Retrigger](https://github.com/griffincancode/Retrigger) — [npm](https://www.npmjs.com/package/@retrigger/core)
-High-performance file watcher for webpack and Vite. SIMD-accelerated hashing (5GB/s+), Rust daemon, Zig system bindings, sub-5ms change detection.
-
-`rust` `zig` `nodejs` `webpack` `hot-reload`
-
-### [Quorum](https://github.com/griffincancode/Quorum)
-Multi-agent AI platform where Claude, GPT, and Gemini collaborate through an intelligent orchestrator. Streaming-first architecture with SSE and async processing.
-
-`python` `typescript` `fastapi` `react` `multi-agent`
-
----
-
-## Domain-Specific Languages
-
-### [Callosum](https://github.com/griffincancode/Callosum) — [PyPI](https://pypi.org/project/callosum-dsl/)
-A language for defining AI personalities. Type-safe persona engineering with versioning, deployment, and multi-provider support (Claude, GPT, Gemini).
-
-`ocaml` `dsl` `ai-personalities` `llm`
-
-### [Wolfgang](https://github.com/griffincancode/Wolfgang)
-Write music programmatically. A functional language for composing music to MIDI. Because music is just well-typed data.
-
-`haskell` `functional` `music` `midi` `dsl`
-
-### [prism](https://github.com/griffincancode/prism)
-The AI-first coding language. Rethinking programming language design for the age of LLMs.
-
-`rust` `language-design` `ai` `compiler`
-
----
-
-## Developer Tools
-
-| Project | Description | Stack | Published |
-|:--------|:------------|:------|:----------|
-| [howmany](https://github.com/griffincancode/howmany) | Intelligent code analysis | Rust | crates.io, VS Code |
-| [SherlockIO](https://github.com/griffincancode/SherlockIO) | Lightning-fast language detection | Rust | crates.io |
-| [krnchr](https://github.com/griffincancode/krnchr) | File aggregator for AI context | Rust | crates.io |
-| [Dei](https://github.com/griffincancode/Dei) | God class detector | Rust | crates.io, Homebrew |
-| [cantron](https://github.com/griffincancode/cantron) | High-speed secret scanner | Rust | — |
-| [Standardize](https://github.com/griffincancode/Standardize) | Universal file formatter | Rust | — |
-| [QVenv](https://github.com/griffincancode/QVenv) | Python venv with auto-detection | Python | PyPI |
-| [QGit](https://github.com/griffincancode/QGit) | Quick git workflow optimizer | Python | PyPI |
-
----
-
-## AI & Agents
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| [good-listener](https://github.com/griffincancode/good-listener) | Realtime background agent for Zoom calls | Python |
-| [Cognivore](https://github.com/griffincancode/Cognivore) | Automated innovation and exploration | JavaScript |
-| [typist](https://github.com/griffincancode/typist) | Local model TTS engine for Mac | Swift, Python |
-| [Amplitude](https://github.com/griffincancode/Amplitude) | Instrument teacher using ML and CV | TypeScript |
-
----
-
-## Creative & Research
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| [BlackholeSim](https://github.com/griffincancode/BlackholeSim) | Black hole simulation with ray tracing | C++, OpenGL, GLSL |
-| [manifest](https://github.com/griffincancode/manifest) | Moddable Civ-style country builder | Rust, Lua, Zig |
-| [LangViz](https://github.com/griffincancode/LangViz) | ML semantic maps of 51 Indo-European languages | Python, R |
-| [Etymologistics](https://github.com/griffincancode/Etymologistics) | Etymology research visualization | Python |
-| [Wikispace](https://github.com/griffincancode/Wikispace) | 3D Wikipedia visualization | Python |
-| [CopyShaft](https://github.com/griffincancode/CopyShaft) | Minecraft-inspired sandbox game | Java |
-| [Foundry](https://github.com/griffincancode/Foundry) | Block editor competing with Notion | JavaScript |
-
----
-
 ## Published Packages
 
 **Rust (crates.io)** — [bldr](https://crates.io/crates/bldr) · [dei](https://crates.io/crates/dei) · [howmany](https://crates.io/crates/howmany) · [krnchr](https://crates.io/crates/krnchr) · [sherlock-io](https://crates.io/crates/sherlock-io)
@@ -130,20 +29,190 @@ The AI-first coding language. Rethinking programming language design for the age
 
 ---
 
-## Languages I Ship In
+## Philosophy
 
-```
-Rust       ████████████████████  Systems, CLI, performance
-D          ████████████████      Build systems, metaprogramming
-Go         ██████████████        Services, orchestration
-TypeScript ██████████████        Frontend, tooling
-Python     ████████████          AI/ML, scripting
-Haskell    ████████              DSLs, functional design
-OCaml      ██████                Language implementation
-Zig        ██████                Systems bindings
-C/C++      ██████                Graphics, low-level
-Swift      ████                  macOS native
-```
+I build at the intersection of **systems programming**, **language design**, and **AI infrastructure**. Most projects prioritize correctness, performance, and novel architecture over convention. I ship in D, Rust, Go, Haskell, OCaml, Zig, Swift, and whatever else the problem demands.
+
+---
+
+## Operating Systems & Infrastructure
+
+### [AgentOS](https://github.com/griffincancode/AgentOS)
+A complete desktop operating system built from scratch in userspace. Production-grade microkernel with 95+ syscalls, CFS scheduling, IPC, VFS, and network isolation. Four-layer architecture: Rust kernel → Go services → Python AI → React shell.
+
+`rust` `go` `typescript` `python` `kernel` `operating-system`
+
+### [bldr](https://github.com/griffincancode/bldr) — [bldrapp.org](https://www.bldrapp.org)
+Polyglot build framework. 5× less boilerplate than Bazel, easier learning curve than Buck2. Runtime dependency discovery, lock-free parallel execution, incremental compilation.
+
+`d` `build-system` `bazel` `monorepo`
+
+### [Polyglot](https://github.com/griffincancode/Polyglot)
+Desktop application framework embedding Python, JS, Rust, Java, C++, Lua, Zig, and WASM runtimes into a single Go-orchestrated process. Not Tauri, not Electron—something new.
+
+`go` `framework` `desktop` `wasm`
+
+### [Retrigger](https://github.com/griffincancode/Retrigger) — [npm](https://www.npmjs.com/package/@retrigger/core)
+High-performance file watcher for webpack/Vite. SIMD-accelerated hashing (5GB/s+), Rust daemon, Zig bindings, sub-5ms detection.
+
+`rust` `zig` `nodejs` `hot-reload`
+
+### [Workaholic](https://github.com/griffincancode/Workaholic)
+Universal system optimizer. Because your computer should work harder than you do.
+
+`nim` `system` `optimization`
+
+---
+
+## Developer Tools
+
+### [howmany](https://github.com/griffincancode/howmany) — [crates.io](https://crates.io/crates/howmany) · [VS Code](https://marketplace.visualstudio.com/items?itemName=GriffinCanCode.howmany)
+Intelligent code analysis tool. Understand your codebase at a glance.
+
+`rust` `typescript` `cli` `analysis`
+
+### [SherlockIO](https://github.com/griffincancode/SherlockIO) — [crates.io](https://crates.io/crates/sherlock-io)
+Lightning-fast algorithm for detecting programming languages in repositories.
+
+`rust` `language-detection` `parsing` `tokio`
+
+### [krnchr](https://github.com/griffincancode/krnchr) — [crates.io](https://crates.io/crates/krnchr)
+File aggregator for AI context engineering. Feed your models the right context.
+
+`rust` `ai` `context-engineering` `tokio`
+
+### [Dei](https://github.com/griffincancode/Dei) — [crates.io](https://crates.io/crates/dei) · [Homebrew](https://github.com/griffincancode/homebrew-dei)
+God class detector. Find and fix design smells in your codebase.
+
+`rust` `code-quality` `static-analysis`
+
+### [scantron](https://github.com/griffincancode/scantron)
+Secret scanner faster than light. Protect your repos from credential leaks.
+
+`rust` `zig` `security` `devops`
+
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| [Standardize](https://github.com/griffincancode/Standardize) | Universal file formatter | Rust |
+| [cantron](https://github.com/griffincancode/cantron) | High-speed secret scanner | Rust |
+| [clearmodel](https://github.com/griffincancode/clearmodel) | Model clarity tooling | Rust |
+| [clearcache](https://github.com/griffincancode/clearcache) | Cache management | Rust |
+| [QVenv](https://github.com/griffincancode/QVenv) | Python venv with auto requirements detection | Python |
+| [QGit](https://github.com/griffincancode/QGit) | Quick git workflow optimizer | Python |
+| [Desktidy](https://github.com/griffincancode/Desktidy) | Automate your desktop | Python |
+| [FaxMachine](https://github.com/griffincancode/FaxMachine) | Smart template injection | Python |
+| [Generator](https://github.com/griffincancode/Generator) | Quick file and directory scaffolding | Shell |
+| [howmany-vscode](https://github.com/griffincancode/howmany-vscode) | VS Code extension for howmany | TypeScript |
+| [howmany-actions](https://github.com/griffincancode/howmany-actions) | GitHub Actions for howmany | TypeScript |
+
+---
+
+## Domain-Specific Languages
+
+### [Callosum](https://github.com/griffincancode/Callosum) — [PyPI](https://pypi.org/project/callosum-dsl/)
+A language for defining AI personalities. Type-safe persona engineering with versioning and multi-provider support.
+
+`ocaml` `python` `dsl` `ai-personalities`
+
+### [Wolfgang](https://github.com/griffincancode/Wolfgang)
+Write music programmatically. Functional language for composing to MIDI.
+
+`haskell` `music` `midi` `dsl`
+
+### [prism](https://github.com/griffincancode/prism)
+The AI-first coding language. Rethinking language design for the LLM era.
+
+`rust` `language-design` `compiler`
+
+### [Typthon](https://github.com/griffincancode/Typthon)
+Type system experiments and language tooling.
+
+`rust` `types`
+
+---
+
+## AI Platforms & Agents
+
+### [Quorum](https://github.com/griffincancode/Quorum)
+Multi-agent AI platform. Claude, GPT, and Gemini collaborate through an intelligent orchestrator. Streaming-first with SSE.
+
+`python` `typescript` `fastapi` `react`
+
+### [toolcase](https://github.com/griffincancode/toolcase)
+Type-safe, extensible tool registry for AI agents. The infrastructure for reliable agent systems.
+
+`python` `langchain` `ai-agents`
+
+### [good-listener](https://github.com/griffincancode/good-listener)
+Realtime background agent for Zoom calls and research.
+
+`python` `ml` `agentic`
+
+### [Cognivore](https://github.com/griffincancode/Cognivore)
+Automated innovation and exploration engine.
+
+`javascript` `browser` `ai`
+
+### [typist](https://github.com/griffincancode/typist)
+Local model powered TTS engine for accessibility on Mac.
+
+`swift` `python` `whisper` `tts`
+
+---
+
+## Games & Simulations
+
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| [BlackholeSim](https://github.com/griffincancode/BlackholeSim) | Black hole simulation with realistic physics and ray tracing | C++, OpenGL, GLSL |
+| [manifest](https://github.com/griffincancode/manifest) | Moddable Civ-style country building game | Rust, Lua, Zig |
+| [CopyShaft](https://github.com/griffincancode/CopyShaft) | Minecraft-inspired locally-run sandbox | Java |
+| [Beastlings](https://github.com/griffincancode/Beastlings) | TinyZoo clone with character | — |
+| [TameImpala](https://github.com/griffincancode/TameImpala) | A very cleverly named game | JavaScript |
+| [prison-escape-simulation](https://github.com/griffincancode/prison-escape-simulation) | Escape simulation | JavaScript |
+| [PsychoFlight](https://github.com/griffincancode/PsychoFlight) | Flight game | JavaScript |
+| [Grandmasters](https://github.com/griffincancode/Grandmasters) | ChatGPT playing dimensionally-modified chess | Python |
+
+---
+
+## Research & Visualization
+
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| [LangViz](https://github.com/griffincancode/LangViz) | ML semantic maps of 51 Indo-European languages | Python, R |
+| [Etymologistics](https://github.com/griffincancode/Etymologistics) | Etymology research and visualization | Python |
+| [CompareFaces](https://github.com/griffincancode/CompareFaces) | Mathematical facial structure comparison | Python |
+| [facekeeper](https://github.com/griffincancode/facekeeper) | Facial recognition embeddings | Python |
+| [The-Instrument](https://github.com/griffincancode/The-Instrument) | New instrument using computer vision | Python |
+| [Amplitude](https://github.com/griffincancode/Amplitude) | Instrument teacher using ML and CV | TypeScript |
+
+---
+
+## Productivity & Apps
+
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| [Foundry](https://github.com/griffincancode/Foundry) | Modern block editor. Attempting to beat Notion. | JavaScript |
+| [lingua](https://github.com/griffincancode/lingua) | Language learning app (Russian) | Python |
+
+---
+
+## Experiments & Fun
+
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| [Abagnale](https://github.com/griffincancode/Abagnale) | Camera modifier for entertaining work calls | Python |
+| [SpellingBee](https://github.com/griffincancode/SpellingBee) | Spelling bee solver | Python |
+| [whisps](https://github.com/griffincancode/whisps) | Elixir experiments | Elixir |
+| [Iconoglott](https://github.com/griffincancode/Iconoglott) | Icon and language tooling | Rust |
+| [debug_philosopher](https://github.com/griffincancode/debug_philosopher) | Debug tool with creativity | — |
+| [virtual_compass](https://github.com/griffincancode/virtual_compass) | Moral compass for ethical dilemmas | Python |
+| [Quantum](https://github.com/griffincancode/Quantum) | Interesting but half-baked | Python |
+| [Brainmaker](https://github.com/griffincancode/Brainmaker) | Brain experiments | — |
+| [safespace](https://github.com/griffincancode/safespace) | Testing made safe | Python |
+| [OnArrival](https://github.com/griffincancode/OnArrival) | Arrival automation | Python |
+| [Tenire](https://github.com/griffincancode/Tenire) | Experiments | Python |
+| [WorldModel](https://github.com/griffincancode/WorldModel) | World modeling | — |
 
 ---
 
