@@ -19,7 +19,7 @@
 
 **Rust (crates.io)** — [bldr](https://crates.io/crates/bldr) · [dei](https://crates.io/crates/dei) · [howmany](https://crates.io/crates/howmany) · [krnchr](https://crates.io/crates/krnchr) · [sherlock-io](https://crates.io/crates/sherlock-io)
 
-**Python (PyPI)** — [qvenv](https://pypi.org/project/qvenv/) · [callosum-dsl](https://pypi.org/project/callosum-dsl/) · [qgit](https://pypi.org/project/qgit/)
+**Python (PyPI)** — [callosum-dsl](https://pypi.org/project/callosum-dsl/) · [toolcase](https://pypi.org/project/toolcase/) · [qvenv](https://pypi.org/project/qvenv/) · [qgit](https://pypi.org/project/qgit/) 
 
 **npm** — [@retrigger/core](https://www.npmjs.com/package/@retrigger/core)
 
