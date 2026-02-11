@@ -19,7 +19,7 @@
 
 **Rust (crates.io)** — [bldr](https://crates.io/crates/bldr) · [dei](https://crates.io/crates/dei) · [howmany](https://crates.io/crates/howmany) · [krnchr](https://crates.io/crates/krnchr) · [sherlock-io](https://crates.io/crates/sherlock-io)
 
-**Python (PyPI)** — [callosum-dsl](https://pypi.org/project/callosum-dsl/) · [toolcase](https://pypi.org/project/toolcase/) · [qvenv](https://pypi.org/project/qvenv/) · [qgit](https://pypi.org/project/qgit/) 
+**Python (PyPI)** — [stampede-cache](https://pypi.org/project/stampede-cache/) · [callosum-dsl](https://pypi.org/project/callosum-dsl/) · [toolcase](https://pypi.org/project/toolcase/) · [qvenv](https://pypi.org/project/qvenv/) · [qgit](https://pypi.org/project/qgit/) 
 
 **npm** — [@retrigger/core](https://www.npmjs.com/package/@retrigger/core)
 
@@ -97,6 +97,7 @@ Secret scanner faster than light. Protect your repos from credential leaks.
 | [cantron](https://github.com/griffincancode/cantron) | High-speed secret scanner | Rust |
 | [clearmodel](https://github.com/griffincancode/clearmodel) | Model clarity tooling | Rust |
 | [clearcache](https://github.com/griffincancode/clearcache) | Cache management | Rust |
+| [stampede-cache](https://github.com/griffincancode/stampede-cache) | Multi-tier async caching with C-accelerated hashing, thundering herd prevention, and semantic similarity | Python, C |
 | [QVenv](https://github.com/griffincancode/QVenv) | Python venv with auto requirements detection | Python |
 | [QGit](https://github.com/griffincancode/QGit) | Quick git workflow optimizer | Python |
 | [Desktidy](https://github.com/griffincancode/Desktidy) | Automate your desktop | Python |
