@@ -23,7 +23,7 @@
 
 **npm** — [@retrigger/core](https://www.npmjs.com/package/@retrigger/core) · [@sitemind](https://www.npmjs.com/package/sitemind)
 
-**VS Code** — [howmany](https://marketplace.visualstudio.com/items?itemName=GriffinCanCode.howmany)
+**VS Code / Cursor** — [howmany](https://marketplace.visualstudio.com/items?itemName=GriffinCanCode.howmany)
 
 **Homebrew** — bldr · dei · howmany · builder
 
