@@ -31,7 +31,7 @@
 
 ## Philosophy
 
-I build at the intersection of **systems programming**, **language design**, and **AI infrastructure**. Most projects prioritize correctness, performance, and novel architecture over convention. I ship in D, Rust, Go, Haskell, OCaml, Zig, Swift, and whatever else the problem demands.
+I live at the intersection of **systems programming**, **language design**, and **AI infrastructure**. Most projects prioritize performance and novel architecture over convention. I have shipped in D, Rust, Go, Haskell, OCaml, Zig, Swift, or whatever else the problem demanded.
 
 ---
 
