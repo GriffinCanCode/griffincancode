@@ -21,7 +21,7 @@
 
 **Python (PyPI)** — [stampede-cache](https://pypi.org/project/stampede-cache/) · [callosum-dsl](https://pypi.org/project/callosum-dsl/) · [toolcase](https://pypi.org/project/toolcase/) · [qvenv](https://pypi.org/project/qvenv/) · [qgit](https://pypi.org/project/qgit/) 
 
-**npm** — [@retrigger/core](https://www.npmjs.com/package/@retrigger/core)
+**npm** — [@retrigger/core](https://www.npmjs.com/package/@retrigger/core) · [@sitemind](https://www.npmjs.com/package/sitemind)
 
 **VS Code** — [howmany](https://marketplace.visualstudio.com/items?itemName=GriffinCanCode.howmany)
 
