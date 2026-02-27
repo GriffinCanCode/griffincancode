@@ -31,7 +31,7 @@
 
 ## Philosophy
 
-I live at the intersection of **systems programming**, **language design**, and **AI infrastructure**. Most projects prioritize performance and novel architecture over convention. I have shipped in D, Rust, Go, Haskell, OCaml, Zig, Swift, or whatever else the problem demanded.
+I was one of the first vibe-coders. My interests live at the intersection of **systems programming**, **language design**, and **AI infrastructure**. Most projects prioritize performance and novel architecture over convention. I have shipped in D, Rust, Go, Haskell, OCaml, Zig, Swift, or whatever else the problem demanded.
 
 ---
 
