@@ -2,11 +2,13 @@
 
 # Griffin
 
-**Systems Architect · Language Designer · AI Infrastructure**
+**Founder & CEO @ [Billy](https://billylives.com)**
+
+*Systems Architect · Language Designer · AI Infrastructure*
 
 *"I always hated sleep."*
 
-[![Website](https://img.shields.io/badge/griffins.world-111?style=flat-square&logo=safari&logoColor=white)](https://griffins.world)
+[![Website](https://img.shields.io/badge/billy-111?style=flat-square&logo=safari&logoColor=white)](https://billylives.com)
 [![Medium](https://img.shields.io/badge/Medium-111?style=flat-square&logo=medium&logoColor=white)](https://griffinn.medium.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/griffincancode)
 [![GitHub](https://img.shields.io/badge/98_repos-111?style=flat-square&logo=github&logoColor=white)](https://github.com/griffincancode?tab=repositories)
