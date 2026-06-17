@@ -19,7 +19,7 @@
 
 ## Philosophy
 
-Vibe coding before it had a name. Systems programming, language design, AI infrastructure. Convention is a floor, never a ceiling; performance and novel architecture earn the right to break protocol. I have shipped in D, Rust, Go, Haskell, OCaml, Zig, Swift, Nim, Elixir, or whatever the problem demanded.
+I vibe code things that compile AND run. Systems programming, language design, AI infrastructure. Convention is a floor, never a ceiling; performance and novel architecture earn the right to break protocol. I have shipped in D, Rust, Go, Haskell, OCaml, Zig, Swift, Nim, Elixir, or whatever the problem demanded.
 
 ---
 
