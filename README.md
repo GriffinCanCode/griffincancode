@@ -19,7 +19,8 @@
 
 ## Philosophy
 
-I start projects then don't finish them. But I swear to god a lot of these ideas are pretty good.
+I start projects then don't finish them. But I swear to god a lot of these ideas are pretty good. I have been vibe coding since that term wasn't a thing yet. I have a lot of ideas and get consumed by too many to keep them all to myself.
+
 ---
 
 ## Published Packages
