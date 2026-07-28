@@ -25,8 +25,6 @@ I start projects then don't finish them. I have been vibe coding since that term
 
 ## Shipped
 
-Twelve that made it out. These are installable today.
-
 | Project | | Stack | Install |
 |:---|:---|:---|:---|
 | **[bldr](https://github.com/griffincancode/bldr)** | Polyglot build system. 28 language handlers, work-stealing scheduler near-linear past 64 cores, hermetic sandboxing. | `D` | [crates.io](https://crates.io/crates/bldr) · [brew](https://github.com/griffincancode/homebrew-bldr) · [site](https://www.bldrapp.org) |
