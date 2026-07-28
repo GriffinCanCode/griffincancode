@@ -2,7 +2,7 @@
 
 # Griffin
 
-**Founder & CEO @Billy**
+**Founder & CEO @ Billy**
 
 *Systems Architect · Language Designer · AI Infrastructure*
 
