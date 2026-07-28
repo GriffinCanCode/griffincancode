@@ -28,7 +28,7 @@ I start projects then don't finish them. I have been vibe coding since that term
 | Project | | Stack | Install |
 |:---|:---|:---|:---|
 | **[bldr](https://github.com/griffincancode/bldr)** | Polyglot build system. 28 language handlers, work-stealing scheduler near-linear past 64 cores, hermetic sandboxing. | `D` | [crates.io](https://crates.io/crates/bldr) · [brew](https://github.com/griffincancode/homebrew-bldr) · [site](https://www.bldrapp.org) |
-| **[howmany](https://github.com/griffincancode/howmany)** | Codebase analysis you actually want to read. Tells you what your code is, not how many lines. | `Rust` `TS` | [crates.io](https://crates.io/crates/howmany) · [VS Code](https://marketplace.visualstudio.com/items?itemName=GriffinCanCode.howmany) · [brew](https://github.com/griffincancode/homebrew-howmany) |
+| **[howmany](https://github.com/griffincancode/howmany)** | Codebase analysis you actually want to read. Tells you what your code is, not how many lines. | `Rust` `TS` | [crates.io](https://crates.io/crates/howmany) · [VS Code](https://marketplace.visualstudio.com/items?itemName=GriffinCanCode.howmany) · [brew](https://github.com/griffincancode/homebrew-howmany) · [ext src](https://github.com/griffincancode/howmany-vscode) · [actions](https://github.com/griffincancode/howmany-actions) |
 | **[dei](https://github.com/griffincancode/Dei)** | God class and god method detector. Coupling, circular dependencies, JSON out for CI. | `Rust` | [crates.io](https://crates.io/crates/dei) · [brew](https://github.com/griffincancode/homebrew-dei) |
 | **[sherlock-io](https://github.com/griffincancode/SherlockIO)** | Language detection across 100+ languages at ~98% accuracy. Knows `.r` from `.r`. | `Rust` | [crates.io](https://crates.io/crates/sherlock-io) |
 | **[krnchr](https://github.com/griffincancode/krnchr)** | File aggregator for AI context. Feed the model what matters. | `Rust` | [crates.io](https://crates.io/crates/krnchr) |
@@ -53,9 +53,22 @@ A lot of repos of ideas I got consumed by. Some are in motion; most are archaeol
 
 | Project | | Stack |
 |:---|:---|:---|
-| [AgentOS](https://github.com/griffincancode/AgentOS) | A desktop OS in userspace. Microkernel, 95+ syscalls, CFS scheduling, VFS, React shell. | `Rust` `Go` `Python` `TS` |
 | [Polyglot](https://github.com/griffincancode/Polyglot) *(in progress)* | One process, every language. Eight runtimes embedded in one Go-orchestrated process. | `Go` `WASM` |
 | [Workaholic](https://github.com/griffincancode/Workaholic) | macOS optimizer. Heuristic cache scoring, parallel cleaning, real-time TUI. | `Nim` |
+
+</details>
+
+<details>
+<summary><b>AI Platforms & Agents</b></summary>
+
+| Project | | Stack |
+|:---|:---|:---|
+| [AgentOS](https://github.com/griffincancode/AgentOS) | A desktop OS in userspace. Microkernel, 95+ syscalls, CFS scheduling, VFS, React shell. | `Rust` `Go` `Python` `TS` |
+| [Quorum](https://github.com/griffincancode/Quorum) | Claude, GPT, and Gemini collaborate through an orchestrator that synthesizes. | `Python` `React` |
+| [Hephaestus](https://github.com/griffincancode/Hephaestus) | Multi-agent idea engine. Four domain agents trading insights. | `Python` |
+| [good-listener](https://github.com/griffincancode/good-listener) | Real-time Zoom intelligence. Whisper, OCR, streaming LLM; ChromaDB remembers. | `Go` `Python` |
+| [Cognivore](https://github.com/griffincancode/Cognivore) | Personal knowledge engine. PDFs, URLs, transcripts in; citations out. | `Electron` `LanceDB` |
+| [typist](https://github.com/griffincancode/typist) | Voice-to-text on macOS. WhisperX, fully local, floating UI. | `Swift` `Python` |
 
 </details>
 
@@ -80,21 +93,6 @@ A lot of repos of ideas I got consumed by. Some are in motion; most are archaeol
 | [Desktidy](https://github.com/griffincancode/Desktidy) | Desktop automation. | `Python` |
 | [FaxMachine](https://github.com/griffincancode/FaxMachine) | Smart template injection. | `Python` |
 | [Generator](https://github.com/griffincancode/Generator) | File and directory scaffolding. | `Shell` |
-| [howmany-vscode](https://github.com/griffincancode/howmany-vscode) | VS Code extension for howmany. | `TypeScript` |
-| [howmany-actions](https://github.com/griffincancode/howmany-actions) | GitHub Actions for howmany. | `TypeScript` |
-
-</details>
-
-<details>
-<summary><b>AI Platforms & Agents</b></summary>
-
-| Project | | Stack |
-|:---|:---|:---|
-| [Quorum](https://github.com/griffincancode/Quorum) | Claude, GPT, and Gemini collaborate through an orchestrator that synthesizes. | `Python` `React` |
-| [Hephaestus](https://github.com/griffincancode/Hephaestus) | Multi-agent idea engine. Four domain agents trading insights. | `Python` |
-| [good-listener](https://github.com/griffincancode/good-listener) | Real-time Zoom intelligence. Whisper, OCR, streaming LLM; ChromaDB remembers. | `Go` `Python` |
-| [Cognivore](https://github.com/griffincancode/Cognivore) | Personal knowledge engine. PDFs, URLs, transcripts in; citations out. | `Electron` `LanceDB` |
-| [typist](https://github.com/griffincancode/typist) | Voice-to-text on macOS. WhisperX, fully local, floating UI. | `Swift` `Python` |
 
 </details>
 
