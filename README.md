@@ -6,7 +6,7 @@
 
 *Systems Architect · Language Designer · AI Infrastructure*
 
-*"I always hated sleep."*
+*Sleep is the most profound waste of time.*
 
 [![Website](https://img.shields.io/badge/billy-111?style=flat-square&logo=safari&logoColor=white)](https://billylives.com)
 [![Medium](https://img.shields.io/badge/Medium-111?style=flat-square&logo=medium&logoColor=white)](https://griffinn.medium.com)
