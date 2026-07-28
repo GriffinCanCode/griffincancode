@@ -4,7 +4,7 @@
 
 **Founder & CEO @ Billy**
 
-*Systems Architect · Language Designer · AI Infrastructure*
+*I make languages, architectures, and various other random things.*
 
 *Sleep is the most profound waste of time.*
 
