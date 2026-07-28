@@ -19,8 +19,7 @@
 
 ## Philosophy
 
-I vibe code things that actually scale. Systems programming, language design, AI infrastructure. Convention is a floor, never a ceiling; performance and novel architecture earn the right to break protocol. I have shipped in D, Rust, Go, Haskell, OCaml, Zig, Swift, Nim, Elixir, or whatever the problem demanded.
-
+I start projects then don't finish them. But I swear to god a lot of these ideas are pretty good.
 ---
 
 ## Published Packages
