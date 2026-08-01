@@ -4,8 +4,6 @@
 
 **Founder & CEO @ Billy**
 
-*I make languages, architectures, and various other random things.*
-
 *Sleep is the most profound waste of time.*
 
 [![Website](https://img.shields.io/badge/billy-111?style=flat-square&logo=safari&logoColor=white)](https://billylives.com)
