@@ -17,7 +17,7 @@
 
 ## Philosophy
 
-I start projects then don't finish them. I have been vibe coding since that term wasn't a thing yet. I have a lot of ideas and get consumed by too many to keep them all to myself. I was Chief of Staff (previously engineer) at RBT Network. I am now the Chief Executive at the Billy Company where I daydream for a living.
+I have been vibe coding since that term wasn't a thing yet. I have a lot of ideas and get consumed by too many to keep them all to myself. I was Chief of Staff (previously engineer) at RBT Network. I am now the Chief Executive at the Billy Company where I daydream for a living.
 
 ---
 
