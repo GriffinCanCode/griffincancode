@@ -2,7 +2,7 @@
 
 # Griffin
 
-**Founder & CEO @ Billy**
+**Founder, CEO, 10x Engineer @ Billy**
 
 *Sleep is the most profound waste of time.*
 
