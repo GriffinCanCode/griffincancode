@@ -2,9 +2,7 @@
 
 # Griffin
 
-**Founder, CEO, 10x Engineer @ Billy**
-
-*Sleep is the most profound waste of time.*
+**I have done something, and quite possibly, I will again.**
 
 [![Website](https://img.shields.io/badge/billy-111?style=flat-square&logo=safari&logoColor=white)](https://billylives.com)
 [![Medium](https://img.shields.io/badge/Medium-111?style=flat-square&logo=medium&logoColor=white)](https://griffinn.medium.com)
