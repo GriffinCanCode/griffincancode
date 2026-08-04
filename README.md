@@ -15,11 +15,15 @@
 
 ## Philosophy
 
-I have been vibe coding since that term wasn't a thing yet. I have a lot of ideas and I like to use GitHub as an open record. I was once Chief of Staff (and engineer) at RBT Network. I am now the Chief Executive at the Billy Company where I daydream for a living.
+I am an engineer, specifically, an AI specialist and vibe coder...loop engineer, or whatever they call it now.
+
+I have a worked on a range of technologies and I have a tendency to develop in the open. 
+
+I was once Chief of Staff (and engineer) at RBT Network. I am now the Chief Executive at the Billy Company where I daydream for a living.
 
 ---
 
-## Shipped
+## Maintained / Shipped
 
 | Project | | Stack | Install |
 |:---|:---|:---|:---|
