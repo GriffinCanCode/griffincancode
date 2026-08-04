@@ -23,7 +23,7 @@ I was once Chief of Staff (and engineer) at RBT Network. I am now the Chief Exec
 
 ---
 
-## Favorites
+## First-Among-Equals
 
 | Project | | Stack | Install |
 |:---|:---|:---|:---|
@@ -36,7 +36,7 @@ I was once Chief of Staff (and engineer) at RBT Network. I am now the Chief Exec
 | **[sheng](https://github.com/The-Billy-Company/sheng)** | Proves a document cannot match a regex before an engine reads it. Sound one way; it may pass a non-match, never reject a match. | `Rust` | [crates.io](https://crates.io/crates/sheng) |
 | **[stampede-cache](https://github.com/griffincancode/stampede-cache)** | Async caching with request coalescing. Kills the thundering herd. | `Python` `C` | [PyPI](https://pypi.org/project/stampede-cache/) |
 
-## Maintained
+## Equals
 
 | Project | | Stack | Install |
 |:---|:---|:---|:---|
