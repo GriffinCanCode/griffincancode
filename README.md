@@ -23,7 +23,7 @@ I was once Chief of Staff (and engineer) at RBT Network. I am now the Chief Exec
 
 ---
 
-## First-Among-Equals
+## Firsts-Among-Equals
 
 | Project | | Stack | Install |
 |:---|:---|:---|:---|
